@@ -105,4 +105,4 @@ Power BI • Power Query • DAX • Exploratory Data Analysis • Data Modeling
 
 Power BI report showcasing Amazon logistics overview, operational performance summary and impact of traffic on delivery performance.
 
-![Amazon Delivery Operations (2022) Power BI Report]()
+![Amazon Delivery Operations (2022) Power BI Report](https://github.com/angelmariathomas15/AMAZON_LOGISTICS_PowerBI_REPORT/blob/main/Amazon_Logistics_homepage.png)
