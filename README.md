@@ -111,7 +111,7 @@ Power BI report showcasing Amazon logistics overview, operational performance su
 ![Amazon Delivery Operations (2022) Power BI Report](https://github.com/angelmariathomas15/AMAZON_LOGISTICS_PowerBI_REPORT/blob/main/amazon_overview_page.png)
 
 🟩 Operational Performance Analysis
-![Amazon Delivery Operations (2022) Power BI Report]()
+![Amazon Delivery Operations (2022) Power BI Report](https://github.com/angelmariathomas15/AMAZON_LOGISTICS_PowerBI_REPORT/blob/main/amazon_operations_analysis.png)
 
 🟨 Traffic Analysis
 ![Amazon Delivery Operations (2022) Power BI Report]()
